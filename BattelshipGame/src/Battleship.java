@@ -283,7 +283,7 @@ public class Battleship {
 	public void runGame() // To run game
 	{
 		System.out.println("  ------------------------------");
-		System.out.println("    Hi, letâ€™s play Battleship!");
+		System.out.println("    Hi, let’s play Battleship!");
 		System.out.println("  ------------------------------");
 		System.out.println("");
 		
